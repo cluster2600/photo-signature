@@ -158,3 +158,16 @@ font = ImageFont.truetype("...", 50)   # increase for larger images / print
 ## Author
 
 **Maxime Grenu** ([cluster2600](https://github.com/cluster2600))
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE) file or use freely with attribution.
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/my-improvement`)
+3. Commit your changes (`git commit -m 'feat: describe what you did'`)
+4. Push to your branch and open a Pull Request
